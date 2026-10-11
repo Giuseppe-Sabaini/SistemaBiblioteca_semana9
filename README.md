@@ -39,6 +39,7 @@ Estudiante: Acceso enfocado a la consulta del catálogo bibliográfico y solicit
 
 Clona el repositorio desde GitHub:
 
+https://github.com/Giuseppe-Sabaini/SistemaBiblioteca_semana9.git
 
 
 Importa y abre el proyecto en IntelliJ IDEA.
@@ -49,4 +50,4 @@ Verifica los parámetros de conexión en el paquete connection.
 
 Ejecuta la clase de inicio en el paquete app para iniciar la aplicación.
 
-Repositorio GitHub: 
+Repositorio GitHub: https://github.com/Giuseppe-Sabaini/SistemaBiblioteca_semana9.git
