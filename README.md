@@ -6,7 +6,6 @@
 
 ● Carrera: Programador Computacional
 
-● Institución: Duoc UC Online
 
 ## 📦 Descripción general del sistema
 
